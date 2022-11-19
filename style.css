@@ -81,7 +81,7 @@ video,#video{
 #bet{
 	width: 412px;
 	position: fixed;
-	height: 200px;
+	height: 100px;
 	background: transparent ;
 	margin-top: 425px;
 	overflow-x: hidden;
