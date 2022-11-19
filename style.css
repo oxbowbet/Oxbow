@@ -1,0 +1,159 @@
+*{
+	padding: 0;
+	margin: 0;
+	position: fixed;
+	overflow: hidden;
+}
+body{
+	background: lightslategray;
+	position: relative;
+}
+Header{
+	left: 0;
+	right: 0;
+	height: 50px;
+	background: transparent;
+	position: fixed;
+}
+nav{
+	left: 0;
+	right: 0;
+	height: 50px;
+	background: forestgreen;
+	position: fixed;
+}
+ul{
+	list-style: none;
+	padding: 5px;
+	display: inline-flex;
+}
+li{
+padding-left: 20px;
+}
+a{
+	text-decoration: none;
+	text-align: center;
+}
+a:hover{
+	color: blue;
+}
+#profile{
+	width: 40px;
+	border-radius: 50px;
+	position:relative;
+}
+#profile-button{
+	width: 150px;
+	height: 30px;
+	border-radius: 50px;
+	position:relative;
+}
+#profile1{
+	width: 40px;
+	border-radius: 50px;
+	position:relative;
+	display: none;
+}
+footer{
+	left: 0;
+	right: 0;
+	height: 50px;
+	bottom: 0;
+	background: transparent;
+	position: fixed;
+}
+#livesoccer{
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: grey;
+	margin-top: 50px;
+	position: fixed;
+	display: inline-block;
+}
+video,#video{
+	width: 412px;
+	position: fixed;
+	height: 412px;
+	background: white;
+}
+#bet{
+	width: 412px;
+	position: fixed;
+	height: 200px;
+	background: blue;
+	margin-top: 425px;
+}
+#fixture{
+	width: 70px;
+	height: 50px;
+	margin-left: 170px;
+	margin-top: 20px;
+	border-radius: 20px;
+	background: transparent;
+	color: white;
+	font-size: 20px;
+	position: fixed;
+}
+#teamA{
+	width: 100px;
+	height: 70px;
+	margin-left: 70px;
+	margin-top: 100px;
+	border-radius: 20px;
+	background: orange;
+	color: white;
+	font-size: 20px;
+	position: fixed;
+	display: none;
+}
+#teamB{
+	width: 100px;
+	height: 70px;
+	margin-left: 250px;
+	margin-top: 100px;
+	border-radius: 20px;
+	background: orange;
+	color: white;
+	font-size: 20px;
+	position: fixed;
+	display: none;
+}
+span{
+	position: fixed;
+	margin-left: -35px;
+	margin-top: -10px;
+}
+#span1{
+	position: fixed;
+	margin-left: 500px;
+	margin-top: 10px;
+	font-size: 20px;
+	background: BLUE;
+}
+#span{
+	position: fixed;
+	margin-left: 105px;
+	margin-top: 10px;
+	font-size: 20px;
+}
+#profile-menu{
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: grey;
+	margin-top: 50px;
+	position: fixed;
+	display: none;
+}
+#image{
+	width: 200px;
+	height: 200px;
+	background: white;
+	position: fixed;
+	border-radius: 150px;
+	margin-left: 100px;
+	margin-top: 10px;
+}
