@@ -76,14 +76,16 @@ video,#video{
 	width: 412px;
 	position: fixed;
 	height: 412px;
-	background: white;
+	background: transparent;
 }
 #bet{
 	width: 412px;
 	position: fixed;
 	height: 200px;
-	background: blue;
+	background: transparent ;
 	margin-top: 425px;
+	overflow-x: hidden;
+	overflow-y: scroll;
 }
 #fixture{
 	width: 70px;
