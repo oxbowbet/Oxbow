@@ -106,6 +106,8 @@ video,#video{
 	font-size: 20px;
 	position: fixed;
 	display: none;
+	border: none;
+	
 }
 #teamB{
 	width: 100px;
@@ -117,6 +119,7 @@ video,#video{
 	font-size: 20px;
 	position: fixed;
 	display: none;
+	border: none;
 }
 span{
 	position: fixed;
