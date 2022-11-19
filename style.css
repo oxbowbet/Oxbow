@@ -101,27 +101,27 @@ video,#video{
 #teamA{
 	width: 100px;
 	height: 70px;
-	margin-left: 50px;
-	margin-top: 100px;
-	background: transparent;
+	margin-left: 70px;
+	margin-top: 50px;
+	border-radius: 20px;
+	background: orange;
 	color: white;
 	font-size: 20px;
-	position: fixed;
+	position: inherit;
 	display: none;
-	border: none;
 	
 }
 #teamB{
 	width: 100px;
 	height: 70px;
-	margin-left: 200px;
-	margin-top: 100px;
-	background: transparent;
+	margin-left: 70px;
+	margin-top: 50px;
+	border-radius: 20px;
+	background: orange;
 	color: white;
 	font-size: 20px;
-	position: fixed;
+	position: inherit;
 	display: none;
-	border: none;
 }
 span{
 	position: fixed;
