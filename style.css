@@ -102,7 +102,7 @@ video,#video{
 	margin-left: 70px;
 	margin-top: 100px;
 	border-radius: 20px;
-	background: orange;
+	background: transparent;
 	color: white;
 	font-size: 20px;
 	position: fixed;
@@ -114,7 +114,7 @@ video,#video{
 	margin-left: 250px;
 	margin-top: 100px;
 	border-radius: 20px;
-	background: orange;
+	background: transparent;
 	color: white;
 	font-size: 20px;
 	position: fixed;
