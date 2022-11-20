@@ -1,7 +1,7 @@
 function fixture() {
-	let data="<span>&nbsp&nbsp&nbsp3.5</span><br><span> Ethiopia Coffee </span>";
+	let data="<span>&nbsp&nbsp&nbsp3.42</span><br><span> QATAR </span>";
 document.getElementById('teamA').innerHTML=data;
-let data1="<span>&nbsp&nbsp&nbsp2.5</span><br><span>Bahir Dar City</span>";
+let data1="<span>&nbsp&nbsp&nbsp2.43</span><br><span>ECUADOR</span>";
 document.getElementById('teamB').innerHTML=data1;
 document.getElementById('teamA').style.display="block"
 document.getElementById('teamB').style.display="block"
