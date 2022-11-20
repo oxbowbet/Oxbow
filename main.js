@@ -27,7 +27,7 @@ function pay1() {
 	open('https://buy.stripe.com/test_cN28wD3RpflaebKdQS')
 }
 function withdraw() { 
-	prompt('what your username')
+	prompt('what\'s your username')
 	confirm("YOUR REQUEST HAS BEEN SENT TO OXBOW BET .\n PLEASE WAIT WHILE WE CONFIRM PAYMENTS.\n THIS CAN TAKE UPTO 24HOURS \(ONE DAY\).\nTHANK YOU FOR YOUR PATIENCE!")
 }
 function image() {
