@@ -103,8 +103,8 @@ video,#video{
 	height: 70px;
 	margin-left: 70px;
 	margin-top: 10px;
-	border-radius: 20px;
-	background: orange;
+	border: none;
+	background: transparent;
 	color: white;
 	font-size: 20px;
 	position: inherit;
@@ -116,8 +116,8 @@ video,#video{
 	height: 70px;
 	margin-left: 270px;
 	margin-top: 10px;
-	border-radius: 20px;
-	background: orange;
+	border: none;
+	background: transparent;
 	color: white;
 	font-size: 20px;
 	position: inherit;
