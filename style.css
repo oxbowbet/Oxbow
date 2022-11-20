@@ -91,7 +91,7 @@ video,#video{
 	width: 70px;
 	height: 50px;
 	margin-left: 170px;
-	margin-top: 20px;
+	margin-top: -20px;
 	border-radius: 20px;
 	background: transparent;
 	color: white;
