@@ -91,7 +91,7 @@ video,#video{
 	width: 70px;
 	height: 50px;
 	margin-left: 170px;
-	margin-top: -20px;
+	margin-top: -50px;
 	border-radius: 20px;
 	background: transparent;
 	color: white;
@@ -101,8 +101,8 @@ video,#video{
 #teamA{
 	width: 100px;
 	height: 70px;
-	margin-left: 70px;
-	margin-top: 10px;
+	margin-left: 20px;
+	margin-top: -10px;
 	border: none;
 	background: transparent;
 	color: white;
@@ -114,8 +114,8 @@ video,#video{
 #teamB{
 	width: 100px;
 	height: 70px;
-	margin-left: 270px;
-	margin-top: 10px;
+	margin-left: 250px;
+	margin-top: -10px;
 	border: none;
 	background: transparent;
 	color: white;
@@ -125,7 +125,7 @@ video,#video{
 }
 span{
 	position: fixed;
-	margin-left: -35px;
+	margin-left: -45px;
 	margin-top: -10px;
 }
 #span1{
